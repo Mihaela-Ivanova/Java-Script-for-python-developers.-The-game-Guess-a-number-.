@@ -1,1 +1,1 @@
-# Java-Script-for-python-developers.-The-game-Guess-a-number-.
+# The game "Guess a number" with Java Script
